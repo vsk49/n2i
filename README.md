@@ -1,2 +1,2 @@
 # n2i
-Repository pour le defi Ubisoft Bordeaux : Mashup Gaming (Nuit d'Info 2024)
+Repository pour les defis choisis (Nuit d'Info 2024)
